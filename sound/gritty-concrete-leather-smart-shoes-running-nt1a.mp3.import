@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gritty-concrete-leather-smart-shoes-running-nt1a.mp3-a026cc8af6b772e63c47bf33a5c433a2.mp3str"
+
+[deps]
+
+source_file="res://sound/gritty-concrete-leather-smart-shoes-running-nt1a.mp3"
+dest_files=[ "res://.import/gritty-concrete-leather-smart-shoes-running-nt1a.mp3-a026cc8af6b772e63c47bf33a5c433a2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
